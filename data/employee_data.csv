@@ -1,0 +1,19 @@
+EmployeeID,FirstName,Surname,Email,DateOfBirth,Department,Position
+123456,John,Doe,john.doe@example.com,1/15/1985,Engineering,Software Engineer
+234567,Jane,Smith,jane.smith@example.com,3/22/1990,Marketing,Marketing Manager
+345678,Bob,Johnson,bob.johnson@example.com,7/30/1988,Engineering,DevOps Engineer
+456789,Alice,Williams,alice.williams@example.com,11/12/1992,Human Resources,HR Specialist
+567890,Tom,Brown,tom.brown@example.com,6/5/1986,Finance,Accountant
+678901,Susan,Jones,susan.jones@example.com,9/25/1991,Marketing,Content Strategist
+789012,Michael,Miller,michael.miller@example.com,12/8/1987,Sales,Sales Manager
+890123,Emily,Davis,emily.davis@example.com,2/17/1994,Engineering,Frontend Developer
+901234,David,Wilson,david.wilson@example.com,5/14/1983,Engineering,Backend Developer
+112233,Linda,Moore,linda.moore@example.com,8/21/1989,Legal,Legal Advisor
+223344,Chris,Taylor,chris.taylor@example.com,10/3/1995,Engineering,Data Scientist
+334455,Patricia,Anderson,patricia.anderson@example.com,4/18/1984,Customer Service,Support Specialist
+445566,Daniel,Thomas,daniel.thomas@example.com,1/30/1982,Sales,Account Executive
+556677,Jessica,Jackson,jessica.jackson@example.com,12/22/1993,Product,Product Manager
+778899,Karen,Harris,karen.harris@example.com,3/7/1991,Marketing,SEO Specialist
+889900,Matthew,Martin,matthew.martin@example.com,11/30/1987,Engineering,Mobile Developer
+990011,Amy,Thompson,amy.thompson@example.com,5/23/1990,Design,UX/UI Designer
+101112,Kevin,Garcia,kevin.garcia@example.com,6/19/1985,Operations,Operations Manager
