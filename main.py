@@ -6,7 +6,7 @@ from src.controller import department_controller
 app = FastAPI()
 
 
-# --------- Csv File ----------
+# --------- Csv File ----------------
 employee_data = "data/employee_data.csv"
 employee_salaries = "data/employee_salaries.csv"
 
